@@ -1,4 +1,4 @@
-Django==1.11.1
+Django==1.11.29
 django-summernote==0.8.7
 uWSGI==2.0.15
 gevent==1.2.1
